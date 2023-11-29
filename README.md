@@ -1,4 +1,4 @@
-# pagekit
+# PageKit
 
 A minimal CSS framework for making modern documents
 
